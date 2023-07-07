@@ -14,9 +14,9 @@ Unicode15.0以内的所有字符，包括但不限于表情符号(多数为黑�
 开源：否
 
 [花园明朝](http://fonts.jp/hanazono/)（日本字型）<br>
-[下载链接](https://zh.osdn.net/projects/hanazono-font/releases/)（找```hanazono-font```）
-支持字符：
-中日韩统一表意文字基本区、扩展A区至F区以及非汉字9806字
+[下载链接](https://zh.osdn.net/projects/hanazono-font/releases/)（找```hanazono-font```）<br>
+支持字符：<br>
+中日韩统一表意文字基本区、扩展A区至F区以及非汉字9806字<br>
 免费下载：是
 开源：是
 
